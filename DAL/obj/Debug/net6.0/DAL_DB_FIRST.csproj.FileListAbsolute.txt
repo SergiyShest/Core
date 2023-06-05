@@ -1,0 +1,14 @@
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\bin\Debug\net6.0\DAL_DB_FIRST.deps.json
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\bin\Debug\net6.0\DAL_DB_FIRST.dll
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\bin\Debug\net6.0\DAL_DB_FIRST.pdb
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.csproj.AssemblyReference.cache
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.GeneratedMSBuildEditorConfig.editorconfig
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.AssemblyInfoInputs.cache
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.AssemblyInfo.cs
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.csproj.CoreCompileInputs.cache
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.dll
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\refint\DAL_DB_FIRST.dll
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.pdb
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\ref\DAL_DB_FIRST.dll
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\bin\Debug\net6.0\DAL_DB_FIRST.runtimeconfig.json
+G:\source\Core\ConsoleDB\DAL_DB_FIRST\obj\Debug\net6.0\DAL_DB_FIRST.genruntimeconfig.cache

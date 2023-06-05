@@ -1,0 +1,627 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlazorSample
+build_property.RootNamespace = BlazorSample
+build_property.ProjectDir = G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/layouts/App1.razor]
+build_metadata.AdditionalFiles.TargetPath = bGF5b3V0c1xBcHAxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/advanced-scenarios/BuiltContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWR2YW5jZWQtc2NlbmFyaW9zXEJ1aWx0Q29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/build-a-blazor-app/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYnVpbGQtYS1ibGF6b3ItYXBwXFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-dotnet-from-js/CallDotNetExample7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1kb3RuZXQtZnJvbS1qc1xDYWxsRG90TmV0RXhhbXBsZTcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample10.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlMTAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample11.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlMTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlMy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlNC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlNS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlNi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-js-from-dotnet/CallJsExample8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC1qcy1mcm9tLWRvdG5ldFxDYWxsSnNFeGFtcGxlOC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-web-api/CallWebAPI.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC13ZWItYXBpXENhbGxXZWJBUEkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/call-web-api/TodoRequest.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FsbC13ZWItYXBpXFRvZG9SZXF1ZXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/CallJsExample7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbEpzRXhhbXBsZTcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/control-head-content/ControlHeadContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udHJvbC1oZWFkLWNvbnRlbnRcQ29udHJvbEhlYWRDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/Bind.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXEJpbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/BindEvent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXEJpbmRFdmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/BindTheory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXEJpbmRUaGVvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/DateBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXERhdGVCaW5kaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/DecimalBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXERlY2ltYWxCaW5kaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/Parent1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXFBhcmVudDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/Parent2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXFBhcmVudDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/PasswordBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXFBhc3N3b3JkQmluZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/data-binding/UnparsableValues.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF0YS1iaW5kaW5nXFVucGFyc2FibGVWYWx1ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/dependency-injection/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVwZW5kZW5jeS1pbmplY3Rpb25cQ3VzdG9tZXJMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/dynamiccomponent/DynamicComponentExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZHluYW1pY2NvbXBvbmVudFxEeW5hbWljQ29tcG9uZW50RXhhbXBsZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/dynamiccomponent/DynamicComponentExample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZHluYW1pY2NvbXBvbmVudFxEeW5hbWljQ29tcG9uZW50RXhhbXBsZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/environments/ReadEnvironment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZW52aXJvbm1lbnRzXFJlYWRFbnZpcm9ubWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/EventHandlerExample8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcRXZlbnRIYW5kbGVyRXhhbXBsZTgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/event-handling/Parent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXZlbnQtaGFuZGxpbmdcUGFyZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/file-downloads/FileDownload1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmlsZS1kb3dubG9hZHNcRmlsZURvd25sb2FkMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/file-downloads/FileDownload2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmlsZS1kb3dubG9hZHNcRmlsZURvd25sb2FkMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/file-uploads/FileUpload1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmlsZS11cGxvYWRzXEZpbGVVcGxvYWQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/file-uploads/FileUpload2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmlsZS11cGxvYWRzXEZpbGVVcGxvYWQyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGUxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGUyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGUzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGU0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGU1LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGU3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGU4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/forms-and-validation/FormExample9.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZm9ybXMtYW5kLXZhbGlkYXRpb25cRm9ybUV4YW1wbGU5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/generic-type-support/GenericTypeExample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZ2VuZXJpYy10eXBlLXN1cHBvcnRcR2VuZXJpY1R5cGVFeGFtcGxlMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/handle-errors/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaGFuZGxlLWVycm9yc1xQcm9kdWN0RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/images/ShowImage1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW1hZ2VzXFNob3dJbWFnZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/images/ShowImage2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW1hZ2VzXFNob3dJbWFnZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/AttributeOrderParent1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcQXR0cmlidXRlT3JkZXJQYXJlbnQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/AttributeOrderParent2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcQXR0cmlidXRlT3JkZXJQYXJlbnQyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/BlazorRocks.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcQmxhem9yUm9ja3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ConditionalAttribute.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcQ29uZGl0aW9uYWxBdHRyaWJ1dGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/CounterPartialClass.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcQ291bnRlclBhcnRpYWxDbGFzcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ExpanderExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcRXhwYW5kZXJFeGFtcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/HeadingExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcSGVhZGluZ0V4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/HelloWorld.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcSGVsbG9Xb3JsZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/Markup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcTWFya3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/MarkupStringExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcTWFya3VwU3RyaW5nRXhhbXBsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ParameterParent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUGFyYW1ldGVyUGFyZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ParameterParent2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUGFyYW1ldGVyUGFyZW50Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ParameterParent3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUGFyYW1ldGVyUGFyZW50My5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/PeopleExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUGVvcGxlRXhhbXBsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/RazorTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUmF6b3JUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ReceiveNotifications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUmVjZWl2ZU5vdGlmaWNhdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ReferenceParent1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUmVmZXJlbmNlUGFyZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/ReferenceParent2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUmVmZXJlbmNlUGFyZW50Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/RenderFragmentParent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUmVuZGVyRnJhZ21lbnRQYXJlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/RouteParameter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcUm91dGVQYXJhbWV0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/index/Splat.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXhcU3BsYXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/layouts/DoctorWhoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGF5b3V0c1xEb2N0b3JXaG9MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/layouts/Episodes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGF5b3V0c1xFcGlzb2Rlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/AfterRender.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXEFmdGVyUmVuZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/BackgroundWork.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXEJhY2tncm91bmRXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/CounterWithTimerDisposal1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXENvdW50ZXJXaXRoVGltZXJEaXNwb3NhbDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/CounterWithTimerDisposal2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXENvdW50ZXJXaXRoVGltZXJEaXNwb3NhbDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/OnInit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXE9uSW5pdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/OnParamsSet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXE9uUGFyYW1zU2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/lifecycle/SetParamsAsync.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGlmZWN5Y2xlXFNldFBhcmFtc0FzeW5jLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/logging/Counter1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9nZ2luZ1xDb3VudGVyMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/logging/Counter2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9nZ2luZ1xDb3VudGVyMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/prerendering/PrerenderedInterop1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJlcmVuZGVyaW5nXFByZXJlbmRlcmVkSW50ZXJvcDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/prerendering/PrerenderedInterop2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJlcmVuZGVyaW5nXFByZXJlbmRlcmVkSW50ZXJvcDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/rendering/ControlRender.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVuZGVyaW5nXENvbnRyb2xSZW5kZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/rendering/CounterState1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVuZGVyaW5nXENvdW50ZXJTdGF0ZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/rendering/CounterState2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVuZGVyaW5nXENvdW50ZXJTdGF0ZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/BlazorRoute.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xCbGF6b3JSb3V0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/CatchAll.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xDYXRjaEFsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/Example.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xFeGFtcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/Navigate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xOYXZpZ2F0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/RouteParameter1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xSb3V0ZVBhcmFtZXRlcjEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/RouteParameter2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xSb3V0ZVBhcmFtZXRlcjIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/routing/User.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGluZ1xVc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/templated-components/Pets1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGxhdGVkLWNvbXBvbmVudHNcUGV0czEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/templated-components/Pets2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGxhdGVkLWNvbXBvbmVudHNcUGV0czIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/templated-components/Pets3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGxhdGVkLWNvbXBvbmVudHNcUGV0czMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/templated-components/Pets4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGxhdGVkLWNvbXBvbmVudHNcUGV0czQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Pages/ThemedCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlbWVkQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/routing/App1.razor]
+build_metadata.AdditionalFiles.TargetPath = cm91dGluZ1xBcHAxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/routing/App2.razor]
+build_metadata.AdditionalFiles.TargetPath = cm91dGluZ1xBcHAyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/advanced-scenarios/PetDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGFkdmFuY2VkLXNjZW5hcmlvc1xQZXREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/build-a-blazor-app/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGJ1aWxkLWEtYmxhem9yLWFwcFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/call-dotnet-from-js/ListItem1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGNhbGwtZG90bmV0LWZyb20tanNcTGlzdEl0ZW0xLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/call-dotnet-from-js/ListItem2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGNhbGwtZG90bmV0LWZyb20tanNcTGlzdEl0ZW0yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/data-binding/ChildBind.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGRhdGEtYmluZGluZ1xDaGlsZEJpbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/data-binding/NestedChild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGRhdGEtYmluZGluZ1xOZXN0ZWRDaGlsZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/data-binding/NestedGrandchild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGRhdGEtYmluZGluZ1xOZXN0ZWRHcmFuZGNoaWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/data-binding/PasswordEntry.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGRhdGEtYmluZGluZ1xQYXNzd29yZEVudHJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/data-binding/PasswordEntry2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGRhdGEtYmluZGluZ1xQYXNzd29yZEVudHJ5Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/dynamiccomponent/RocketLab.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGR5bmFtaWNjb21wb25lbnRcUm9ja2V0TGFiLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/dynamiccomponent/RocketLabWithWindowSeat.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGR5bmFtaWNjb21wb25lbnRcUm9ja2V0TGFiV2l0aFdpbmRvd1NlYXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/dynamiccomponent/SpaceX.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGR5bmFtaWNjb21wb25lbnRcU3BhY2VYLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/dynamiccomponent/UnitedLaunchAlliance.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGR5bmFtaWNjb21wb25lbnRcVW5pdGVkTGF1bmNoQWxsaWFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/dynamiccomponent/VirginGalactic.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGR5bmFtaWNjb21wb25lbnRcVmlyZ2luR2FsYWN0aWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/event-handling/Child.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGV2ZW50LWhhbmRsaW5nXENoaWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/forms-and-validation/CustomInputText.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGZvcm1zLWFuZC12YWxpZGF0aW9uXEN1c3RvbUlucHV0VGV4dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/generic-type-support/ListGenericTypeItems1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGdlbmVyaWMtdHlwZS1zdXBwb3J0XExpc3RHZW5lcmljVHlwZUl0ZW1zMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/host-and-deploy/MeasureLatency.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGhvc3QtYW5kLWRlcGxveVxNZWFzdXJlTGF0ZW5jeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/AttributeOrderChild1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XEF0dHJpYnV0ZU9yZGVyQ2hpbGQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/AttributeOrderChild2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XEF0dHJpYnV0ZU9yZGVyQ2hpbGQyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/BadExpander.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XEJhZEV4cGFuZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/Expander.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XEV4cGFuZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/Heading.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XEhlYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/ParameterChild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XFBhcmFtZXRlckNoaWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/ReferenceChild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XFJlZmVyZW5jZUNoaWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/index/RenderFragmentChild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGluZGV4XFJlbmRlckZyYWdtZW50Q2hpbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/layouts/DoctorWhoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGxheW91dHNcRG9jdG9yV2hvTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/layouts/DoctorWhoLayout2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGxheW91dHNcRG9jdG9yV2hvTGF5b3V0Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGxheW91dHNcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/layouts/ProductionsLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXGxheW91dHNcUHJvZHVjdGlvbnNMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/templated-components/TableTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXHRlbXBsYXRlZC1jb21wb25lbnRzXFRhYmxlVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-w5bpsn6vfr
+
+[G:/source/Core/blazor-samples/6.0/BlazorSample_WebAssembly/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nsctf7l4ry
