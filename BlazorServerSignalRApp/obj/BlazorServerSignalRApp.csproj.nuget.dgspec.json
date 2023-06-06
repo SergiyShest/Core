@@ -1,40 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "G:\\source\\Core\\Blazor\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj": {}
+    "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj": {}
   },
   "projects": {
-    "G:\\source\\Core\\Blazor\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj": {
+    "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\Core\\Blazor\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
+        "projectUniqueName": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
         "projectName": "BlazorServerSignalRApp",
-        "projectPath": "G:\\source\\Core\\Blazor\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
-        "packagesPath": "C:\\Users\\Sergey.DESKTOP-6MTKSUM\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\Core\\Blazor\\BlazorServerSignalRApp\\obj\\",
+        "projectPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
+        "packagesPath": "C:\\Users\\NEW_KORFIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\BlazorServerSignalRApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sergey.DESKTOP-6MTKSUM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\NEW_KORFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\source\\Core\\Blazor\\DAL\\DAL.csproj": {
-                "projectPath": "G:\\source\\Core\\Blazor\\DAL\\DAL.csproj"
+              "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj"
               }
             }
           }
@@ -52,6 +48,10 @@
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -73,32 +73,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\source\\Core\\Blazor\\DAL\\DAL.csproj": {
+    "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\Core\\Blazor\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "G:\\source\\Core\\Blazor\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Sergey.DESKTOP-6MTKSUM\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\Core\\Blazor\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\NEW_KORFIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sergey.DESKTOP-6MTKSUM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\NEW_KORFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -175,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,7 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DAL_DB_FIRST;
+
+using DAL;
 //using NUnit.Framework;
 
 namespace ConsoleDB.Tests
@@ -19,14 +20,14 @@ namespace ConsoleDB.Tests
         {
              NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
            
-            using (UserPortalContext db = new UserPortalContext())
+            using (var db = new KorfinContext())
             {
                 // получаем объекты из бд и выводим на консоль
                 var users = db.Users.ToList();
                 logger.Debug("Список объектов:");
-                foreach (DAL_DB_FIRST.User u in users)
+                foreach (DAL.User u in users)
                 {
-                    logger.Debug($"{u.Id}.{u.FirstName} - {u.LastName}");
+                    logger.Debug($"{u.Id}.{u.Name} - {u.IdOst}- {u.Email}");
                 }
             }
         }

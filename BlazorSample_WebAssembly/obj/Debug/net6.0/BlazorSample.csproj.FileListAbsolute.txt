@@ -821,3 +821,12 @@ G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly\obj\Debug\net6.0\Blaz
 G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly\obj\Debug\net6.0\refint\BlazorSample.dll
 G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.pdb
 G:\source\Core\blazor-samples\6.0\BlazorSample_WebAssembly\obj\Debug\net6.0\ref\BlazorSample.dll
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.dll
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\refint\BlazorSample.dll
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.pdb
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.csproj.AssemblyReference.cache
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.AssemblyInfoInputs.cache
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.AssemblyInfo.cs
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.csproj.CoreCompileInputs.cache
+C:\Users\NEW_KORFIN\source\repos\Core\BlazorSample_WebAssembly\obj\Debug\net6.0\BlazorSample.MvcApplicationPartsAssemblyInfo.cache

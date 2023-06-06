@@ -24,14 +24,14 @@ public class WeatherForecastService
     {
         List<DAL.User> users = new List<DAL.User>();
 
-        using (DAL.UserPortalContext db = new DAL.UserPortalContext())
+        using (DAL.KorfinContext db = new DAL.KorfinContext())
         {
             // получаем объекты из бд и выводим на консоль
             users = db.Users.ToList();
             logger.Debug("Список объектов:");
             foreach (DAL.User u in users)
             {
-                logger.Debug($"{u.Id}.{u.FirstName} - {u.LastName}");
+                logger.Debug($"{u.Id}.{u.Name} - {u.IdOst}");
             }
         }
         return users;
