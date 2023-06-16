@@ -10,6 +10,4 @@ public partial class Ost
     public string? Name { get; set; }
 
     public string? FullName { get; set; }
-
-    public virtual User? User { get; set; }
 }

@@ -27,7 +27,7 @@ namespace ConsoleDB.Tests
                 logger.Debug("Список объектов:");
                 foreach (DAL.User u in users)
                 {
-                    logger.Debug($"{u.Id}.{u.Name} - {u.IdOst}- {u.Email}");
+                    logger.Debug($"{u.Id}.{u.Name} - {u.UserOstId}- {u.Email}");
                 }
             }
         }

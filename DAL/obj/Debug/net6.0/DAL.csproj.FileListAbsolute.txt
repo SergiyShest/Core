@@ -30,8 +30,6 @@ G:\source\Core\Blazor\DAL\obj\Debug\net6.0\refint\DAL.dll
 G:\source\Core\Blazor\DAL\obj\Debug\net6.0\DAL.pdb
 G:\source\Core\Blazor\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 G:\source\Core\Blazor\DAL\obj\Debug\net6.0\ref\DAL.dll
-C:\Users\NEW_KORFIN\source\repos\Core\DAL\bin\Debug\net6.0\appsettings.json
-C:\Users\NEW_KORFIN\source\repos\Core\DAL\bin\Debug\net6.0\nlog.config
 C:\Users\NEW_KORFIN\source\repos\Core\DAL\bin\Debug\net6.0\DAL.deps.json
 C:\Users\NEW_KORFIN\source\repos\Core\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
 C:\Users\NEW_KORFIN\source\repos\Core\DAL\bin\Debug\net6.0\DAL.dll

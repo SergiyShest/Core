@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {}
+    "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {
+    "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "c:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\NEW_KORFIN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\NEW_KORFIN\\source\\repos\\Core\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NEW_KORFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,10 +47,6 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.5, )"
             },
